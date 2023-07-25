@@ -1,7 +1,7 @@
 package org.example.web;
 
 import static org.example.web.task2.CommentFetcher.fetchComments;
-import static org.example.task3.TaskApp.getOpenTasksForUser;
+import static org.example.web.task3.TaskApp.getOpenTasksForUser;
 import static org.example.web.task1.UserApiService.*;
 
 public class Main {
