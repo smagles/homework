@@ -1,4 +1,4 @@
-package org.example.colections;
+package org.example.collections;
 
 public class MyHashMap {
     private static final int DEFAULT_CAPACITY = 16;

@@ -1,6 +1,4 @@
-package org.example.colections;
-
-import java.util.Arrays;
+package org.example.collections;
 
 public class MyArrayList {
     private static final int DEFAULT_CAPACITY = 10;

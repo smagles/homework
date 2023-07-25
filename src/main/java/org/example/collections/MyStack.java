@@ -1,4 +1,4 @@
-package org.example.colections;
+package org.example.collections;
 
 public class MyStack {
     private Object[] elements;

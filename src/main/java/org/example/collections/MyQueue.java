@@ -1,6 +1,4 @@
-package org.example.colections;
-
-import java.util.Arrays;
+package org.example.collections;
 
 public class MyQueue {
     private Object[] elements;
